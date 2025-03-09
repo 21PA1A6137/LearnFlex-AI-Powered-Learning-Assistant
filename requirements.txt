@@ -32,3 +32,4 @@ pillow
 altair==4
 pydub
 ffmpeg
+numpy

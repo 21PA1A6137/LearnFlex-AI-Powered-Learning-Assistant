@@ -1,4 +1,4 @@
-
+scikit-learn
 langchain
 streamlit
 langchain_groq

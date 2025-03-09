@@ -29,4 +29,3 @@ pytesseract
 pdf2image
 pillow
 altair==4
-tiktoken==0.4.0

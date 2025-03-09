@@ -1,0 +1,7 @@
+model_path:
+  llama: "llama-3.3-70b-versatile"
+  temperature: 0
+
+sessions_dir: "./chat_sessions/"
+
+database: "./database/"
